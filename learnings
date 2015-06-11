@@ -1,3 +1,14 @@
 All the numbers by default are 64 bit floaitng
 Arrays and Strings share the same length
+Constructors are a way to make objects with the keyword new. The most basic constructor is the Object constructor, which will make an object with no methods or properties
+
+
+There are only six falsy values in JavaScript so it is easiest to memorize those:
+
+    false
+    0 (zero)
+    "" (empty string)
+    null
+    undefined
+    NaN
 
