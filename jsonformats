@@ -1,0 +1,19 @@
+{
+    "school": [
+        {
+            "name": "Sri Vasavi High School",
+            "city": "Chirala",
+            "pin": 523155
+        },
+        {
+            "name": "SASTRA",
+            "city": "Thanjavur",
+            "pin": 613401
+        }
+    ],
+    "vamsi": {
+        "salary": 50
+    }
+}
+
+// always use jsonlint.com to validate your JSON files
