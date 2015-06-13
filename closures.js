@@ -11,7 +11,7 @@ x;
 
 
 what do you think will happen? 
-x got a function returned which is anonymous. To call up that function, to this x();
+x got a function returned which is anonymous. To call up that function, do this call like this x();
 
 
 
@@ -29,7 +29,7 @@ function() one(x){
 var x= one(5);
 x 
 
-so what will happen now, instead of anonymous function, a named function gets returned
+so what will happen now, instead of anonymous function, a named function called "b" gets returned
 
 If you want to call it, do like x();
 
